@@ -18,3 +18,8 @@ Bootstrap, Redux Toolkit, ES Lint
 &ensp;&ensp;3.1. В режиме конструктора можно собирать интерфейс;<br />
 &ensp;&ensp;3.2. В режиме runtime работает калькулятор;<br />
 &ensp;&ensp;3.3. Переключение сбрасывает состояние дисплея;<br />
+
+
+## Netlify:
+Ссылка на задеплоенную версию
+https://glowing-cascaron-dd16c2.netlify.app/
