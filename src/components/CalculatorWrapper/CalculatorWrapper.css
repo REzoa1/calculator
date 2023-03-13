@@ -1,0 +1,27 @@
+.lightblue-bg {
+  background-color: #f0f9ff;
+}
+
+.loader,
+.loader-fill {
+  color: #5d5fef;
+
+  height: 448px;
+  border: 2px dashed #c4c4c4;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loader-subtitle {
+  font-size: 12px;
+  font-weight: 400;
+  color: #6b7280;
+  padding: 0px 69px;
+}
+.loader-fill {
+  justify-content: start;
+  align-items: stretch;
+  border: 0px;
+}

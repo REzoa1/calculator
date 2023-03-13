@@ -1,0 +1,31 @@
+.btn-outline-light {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  padding: 6px 0px;
+
+  --bs-btn-color: #4d5562;
+  --bs-btn-active-color: #4d5562;
+
+  --bs-btn-border-color: transparent;
+  --bs-btn-active-bg: #fff;
+  --bs-btn-active-border-color: #e2e3e5;
+
+  border-radius: 5px !important;
+  margin: 1px;
+}
+
+.group {
+  height: 38px;
+  background-color: #f3f4f6;
+  border-radius: 6px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.logo {
+  margin-right: 8px;
+}
+.active path {
+  stroke: #5d5fef;
+}

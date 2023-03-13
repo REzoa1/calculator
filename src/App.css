@@ -1,39 +1,22 @@
-.App {
-  text-align: center;
+.sidebar {
+  margin: 68px 56px 0 auto;
+  width: 240px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.canvas {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+
+  margin-right: auto;
+  width: 243px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-float infinite 3s ease-in-out;
-  }
+.mb-12 {
+  margin-bottom: 12px;
 }
 
-.App-header {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-}
-
-.App-link {
-  color: rgb(112, 76, 182);
-}
-
-@keyframes App-logo-float {
-  0% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(10px);
-  }
-  100% {
-    transform: translateY(0px);
-  }
+.item {
+  border-radius: 4px;
+  border: 4px solid #fff;
 }
